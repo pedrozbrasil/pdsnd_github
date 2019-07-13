@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+July 13th, 2019 5PM (ECSA time)
 
 ### Project Title
 Replace the Project Title
