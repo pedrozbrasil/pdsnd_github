@@ -1,4 +1,6 @@
 #Author: Pedro Paredes Zambrano Brasil
+#Job role: Metering Engineer
+#Company: Shell Brasil Petróleo Ltda.
 #Latest update: 13-07-2019
 
 import time
