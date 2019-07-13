@@ -1,6 +1,10 @@
+#Modules imported required for running the code:
 import time
 import pandas as pd
 import numpy as np
+
+
+#Cities, months and week days options listed below:
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
