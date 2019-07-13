@@ -6,6 +6,7 @@ Analyzing US bikeshare data
 
 ### Description
 This project consists on analyzing the bikeshare data for three american cities to evaluate multiple parameters about the topic.
+This project is a part of the Udacity nanodegree on Programming for Data Science.
 
 ### Files used
 chicago.csv

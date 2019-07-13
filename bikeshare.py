@@ -1,3 +1,6 @@
+#Author: Pedro Paredes Zambrano Brasil
+#Latest update: 13-07-2019
+
 import time
 import pandas as pd
 import numpy as np
