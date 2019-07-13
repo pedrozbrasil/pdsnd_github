@@ -165,7 +165,7 @@ def user_stats(df, city): #As Washington has less columns, it was added another 
         gender = df['Gender'].value_counts()
         print('Counts of gender:\n', gender)
     else:
-        print('No gender data available for Washington D.C') #way of indicating to the user that this type of data is not available to DC
+        print('Sorry! There is no gender data available for Washington D.C') #way of indicating to the user that this type of data is not available to DC
 
 
     if city != 'washington':
@@ -195,7 +195,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df, city)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nGreat job! Would you like to restart? Please enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
